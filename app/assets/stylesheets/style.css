@@ -301,7 +301,7 @@
 /* 画面上部の「人生を変えるアプリ」帯部分 */
 .title-contents {
   width: 100vw;
-  height: 100vh;
+  height: 90vh;
   background-image: url('crystal.jpeg');
   background-size: cover;
   background-repeat: no-repeat;
